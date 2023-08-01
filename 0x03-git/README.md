@@ -1,1 +1,1 @@
-My first git course
+My first git course for the first time.
